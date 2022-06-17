@@ -4,7 +4,7 @@
 "local": {
 "nome": "Maracana", 
 "imagem" : "TODO"},
-mandante": { "nome" : "Brasil", 
+"mandante": { "nome" : "Brasil", 
 "forca": 5, 
 "imagem": "TODO"},
 "visitante": {
